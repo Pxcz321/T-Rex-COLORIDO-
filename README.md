@@ -1,2 +1,1 @@
-# T-Rex-COLORIDO-
-jogo do trex colorido
+# C19-SA
